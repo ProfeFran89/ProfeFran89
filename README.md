@@ -1,6 +1,6 @@
 👋 About Me:
 
-Hola! Soy Francisca Gálvez, soy Analista de Datos y Programadora, Entry Level en Accenture Chile. Me he desempeñado como profesora por 9 años por lo que mi fuerte con las habilidades blandas y estoy en proceso de actualización de aprendizajes técnicos, hace poco participé en un BootCamp de Data Science en Desafio Latam y actualmente estoy estudiando un curso de Talento Digital Chile de Análisis de Datos (Certificado por Google).
+Hola! Soy Francisca Gálvez, soy Analista de Datos y Programadora, actualmente trabajo en Accenture Chile. Me he desempeñado como profesora por 9 años por lo que mi fuerte con las habilidades blandas y estoy en constantes aprendizajes técnicos, participé en un BootCamp de Data Science en Desafio Latam, realicé un curso de Talento Digital Chile de Análisis de Datos (Certificado por Google) y durante mi año en Accenture he obtenido distintas certificaciones como SCRUM MASTER, Google Cloud Digital Leader, AWS Certified AI Practitioner e ITIL 4.
 
 🌐 Social:
 
